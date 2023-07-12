@@ -1,3 +1,11 @@
+# Mini Room 3D model in a React app
+
+In this mini project, I experimented in creating 3D models that can be rendered on the web, using Spline (A 3D design tool) and its components library. I explored modelling shapes, sculpting, lighting, and designed a mini room that is now live [here](https://mini-room-3d.netlify.app/). 
+
+<img width="3204" alt="mini-room-spline" src="https://github.com/lee-jia-yi/spline-mini-room/assets/89006263/bfc99d93-b337-4d85-be14-c9aa044594f0">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
